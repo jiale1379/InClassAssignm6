@@ -1,6 +1,6 @@
-public class EmpVP extends Employee implements Increment{
+public class empVP extends Employee implements Increment{
     double bonus;
-    EmpVP(int id, String name, double salary, double b){
+    empVP(int id, String name, double salary, double b){
         super(id, name, salary);
         bonus = b;
     }

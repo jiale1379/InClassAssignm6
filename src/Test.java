@@ -12,7 +12,7 @@ public class Test {
 
         eb.incrementSalary();
 
-        EmpVP ev = new EmpVP(12345,"John",100000, 20);
+        empVP ev = new empVP(12345,"John",100000, 20);
         ev.incrementSalary();
 
 
