@@ -1,4 +1,4 @@
-public class Execute {
+public class Test {
     public static void main (String[] args)
     {
         Triangle tri = new Triangle(4, 4);
